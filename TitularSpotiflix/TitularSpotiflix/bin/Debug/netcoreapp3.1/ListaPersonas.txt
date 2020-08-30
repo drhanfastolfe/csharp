@@ -5,7 +5,7 @@ Carlos
 Spotiflix
 true
 Juan
-Spotify
+Netflix
 false
 Stefan
 Spotify
