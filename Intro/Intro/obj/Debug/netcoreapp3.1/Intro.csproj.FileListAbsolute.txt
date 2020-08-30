@@ -1,0 +1,13 @@
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Intro\Intro\bin\Debug\netcoreapp3.1\Intro.exe
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Intro\Intro\bin\Debug\netcoreapp3.1\Intro.deps.json
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Intro\Intro\bin\Debug\netcoreapp3.1\Intro.runtimeconfig.json
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Intro\Intro\bin\Debug\netcoreapp3.1\Intro.runtimeconfig.dev.json
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Intro\Intro\bin\Debug\netcoreapp3.1\Intro.dll
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Intro\Intro\bin\Debug\netcoreapp3.1\Intro.pdb
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Intro\Intro\obj\Debug\netcoreapp3.1\Intro.csprojAssemblyReference.cache
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Intro\Intro\obj\Debug\netcoreapp3.1\Intro.AssemblyInfoInputs.cache
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Intro\Intro\obj\Debug\netcoreapp3.1\Intro.AssemblyInfo.cs
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Intro\Intro\obj\Debug\netcoreapp3.1\Intro.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Intro\Intro\obj\Debug\netcoreapp3.1\Intro.dll
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Intro\Intro\obj\Debug\netcoreapp3.1\Intro.pdb
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Intro\Intro\obj\Debug\netcoreapp3.1\Intro.genruntimeconfig.cache

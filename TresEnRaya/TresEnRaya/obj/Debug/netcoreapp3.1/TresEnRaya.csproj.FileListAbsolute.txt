@@ -1,0 +1,13 @@
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\TresEnRaya\TresEnRaya\bin\Debug\netcoreapp3.1\TresEnRaya.exe
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\TresEnRaya\TresEnRaya\bin\Debug\netcoreapp3.1\TresEnRaya.deps.json
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\TresEnRaya\TresEnRaya\bin\Debug\netcoreapp3.1\TresEnRaya.runtimeconfig.json
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\TresEnRaya\TresEnRaya\bin\Debug\netcoreapp3.1\TresEnRaya.runtimeconfig.dev.json
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\TresEnRaya\TresEnRaya\bin\Debug\netcoreapp3.1\TresEnRaya.dll
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\TresEnRaya\TresEnRaya\bin\Debug\netcoreapp3.1\TresEnRaya.pdb
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\TresEnRaya\TresEnRaya\obj\Debug\netcoreapp3.1\TresEnRaya.csprojAssemblyReference.cache
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\TresEnRaya\TresEnRaya\obj\Debug\netcoreapp3.1\TresEnRaya.AssemblyInfoInputs.cache
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\TresEnRaya\TresEnRaya\obj\Debug\netcoreapp3.1\TresEnRaya.AssemblyInfo.cs
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\TresEnRaya\TresEnRaya\obj\Debug\netcoreapp3.1\TresEnRaya.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\TresEnRaya\TresEnRaya\obj\Debug\netcoreapp3.1\TresEnRaya.dll
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\TresEnRaya\TresEnRaya\obj\Debug\netcoreapp3.1\TresEnRaya.pdb
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\TresEnRaya\TresEnRaya\obj\Debug\netcoreapp3.1\TresEnRaya.genruntimeconfig.cache

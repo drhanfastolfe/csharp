@@ -1,0 +1,13 @@
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Probando\Probando\bin\Debug\netcoreapp3.1\Probando.exe
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Probando\Probando\bin\Debug\netcoreapp3.1\Probando.deps.json
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Probando\Probando\bin\Debug\netcoreapp3.1\Probando.runtimeconfig.json
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Probando\Probando\bin\Debug\netcoreapp3.1\Probando.runtimeconfig.dev.json
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Probando\Probando\bin\Debug\netcoreapp3.1\Probando.dll
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Probando\Probando\bin\Debug\netcoreapp3.1\Probando.pdb
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Probando\Probando\obj\Debug\netcoreapp3.1\Probando.csprojAssemblyReference.cache
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Probando\Probando\obj\Debug\netcoreapp3.1\Probando.AssemblyInfoInputs.cache
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Probando\Probando\obj\Debug\netcoreapp3.1\Probando.AssemblyInfo.cs
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Probando\Probando\obj\Debug\netcoreapp3.1\Probando.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Probando\Probando\obj\Debug\netcoreapp3.1\Probando.dll
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Probando\Probando\obj\Debug\netcoreapp3.1\Probando.pdb
+C:\Users\Hamza\Desktop\Google Drive\Proyectos\C#\Probando\Probando\obj\Debug\netcoreapp3.1\Probando.genruntimeconfig.cache
