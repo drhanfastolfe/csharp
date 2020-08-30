@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hamza\\Desktop\\Google Drive\\Proyectos\\C#\\Intro\\Intro\\Intro.csproj",
-      "projectName": "Intro",
-      "projectPath": "C:\\Users\\Hamza\\Desktop\\Google Drive\\Proyectos\\C#\\Intro\\Intro\\Intro.csproj",
+      "projectUniqueName": "C:\\Users\\Hamza\\Desktop\\Google Drive\\Proyectos\\C#\\TitularSpotiflix\\TitularSpotiflix\\TitularSpotiflix.csproj",
+      "projectName": "TitularSpotiflix",
+      "projectPath": "C:\\Users\\Hamza\\Desktop\\Google Drive\\Proyectos\\C#\\TitularSpotiflix\\TitularSpotiflix\\TitularSpotiflix.csproj",
       "packagesPath": "C:\\Users\\Hamza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hamza\\Desktop\\Google Drive\\Proyectos\\C#\\Intro\\Intro\\obj\\",
+      "outputPath": "C:\\Users\\Hamza\\Desktop\\Google Drive\\Proyectos\\C#\\TitularSpotiflix\\TitularSpotiflix\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hamza\\AppData\\Roaming\\NuGet\\NuGet.Config",

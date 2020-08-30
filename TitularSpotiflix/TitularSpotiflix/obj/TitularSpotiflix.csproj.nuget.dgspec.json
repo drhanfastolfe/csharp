@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hamza\\Desktop\\Google Drive\\Proyectos\\C#\\Probando\\Probando\\Probando.csproj": {}
+    "C:\\Users\\Hamza\\Desktop\\Google Drive\\Proyectos\\C#\\TitularSpotiflix\\TitularSpotiflix\\TitularSpotiflix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hamza\\Desktop\\Google Drive\\Proyectos\\C#\\Probando\\Probando\\Probando.csproj": {
+    "C:\\Users\\Hamza\\Desktop\\Google Drive\\Proyectos\\C#\\TitularSpotiflix\\TitularSpotiflix\\TitularSpotiflix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hamza\\Desktop\\Google Drive\\Proyectos\\C#\\Probando\\Probando\\Probando.csproj",
-        "projectName": "Probando",
-        "projectPath": "C:\\Users\\Hamza\\Desktop\\Google Drive\\Proyectos\\C#\\Probando\\Probando\\Probando.csproj",
+        "projectUniqueName": "C:\\Users\\Hamza\\Desktop\\Google Drive\\Proyectos\\C#\\TitularSpotiflix\\TitularSpotiflix\\TitularSpotiflix.csproj",
+        "projectName": "TitularSpotiflix",
+        "projectPath": "C:\\Users\\Hamza\\Desktop\\Google Drive\\Proyectos\\C#\\TitularSpotiflix\\TitularSpotiflix\\TitularSpotiflix.csproj",
         "packagesPath": "C:\\Users\\Hamza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hamza\\Desktop\\Google Drive\\Proyectos\\C#\\Probando\\Probando\\obj\\",
+        "outputPath": "C:\\Users\\Hamza\\Desktop\\Google Drive\\Proyectos\\C#\\TitularSpotiflix\\TitularSpotiflix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hamza\\AppData\\Roaming\\NuGet\\NuGet.Config",

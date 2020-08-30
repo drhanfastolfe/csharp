@@ -35,13 +35,6 @@ namespace Probando
                 k = k + 2;
             }
 
-
-
-
-
-
-
-
             Console.ReadKey();
         }
     }

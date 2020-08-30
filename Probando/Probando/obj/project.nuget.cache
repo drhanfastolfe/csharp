@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QNT9BYklN7HR8WpTmy69BWLK3PS34/5mEiSScQBcB1JdgHAxbi3NOILDRgBh8CO6m3egf4fNs+5hdvsJRc3pcw==",
+  "dgSpecHash": "ty9oQN6eytV9K9sHjtbwhJAt62oWGsZ6tOmupIfbT2Jm10ClMwCteZ5La90LBKNJ/Rz5+j6sSbVKsKl5qfhBaQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Hamza\\Desktop\\Google Drive\\Proyectos\\C#\\Probando\\Probando\\Probando.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Hamza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
