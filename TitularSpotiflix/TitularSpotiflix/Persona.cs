@@ -9,13 +9,12 @@ namespace TitularSpotiflix
         private string nombre;
         private App suscripcion;
         private bool titularPasado;
-        private bool titular;
-        public Persona(string nombre, App suscripcion, bool titularPasado, bool titular)
+        
+        public Persona(string nombre, App suscripcion, bool titularPasado)
         {
             this.nombre = nombre;
             this.suscripcion = suscripcion;
             this.titularPasado = titularPasado;
-            this.titular = titular;
         }
 
         public Persona()
@@ -27,5 +26,55 @@ namespace TitularSpotiflix
         {
             Spotify, Netflix, Spotiflix
         }
+
+        public string Nombre
+        {
+            get
+            {
+                return this.nombre;
+            }
+
+            set
+            {
+                this.nombre = value;
+            }
+        }
+
+        public App Suscripcion
+        {
+            get
+            {
+                return this.suscripcion;
+            }
+
+            set
+            {
+                this.suscripcion = value;
+            }
+        }
+
+        public bool TitularPasado
+        {
+            get
+            {
+                return this.titularPasado;
+            }
+
+            set
+            {
+                this.titularPasado = value;
+            }
+
+        }
+
+        public override string ToString()
+        {
+            string fichaPersona;
+
+            fichaPersona = this.nombre + " | " + this.suscripcion + " | Titular en el pasado: " + titularPasado;
+
+            return fichaPersona;
+        }
+
     }
 }

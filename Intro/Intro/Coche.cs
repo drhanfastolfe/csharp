@@ -30,7 +30,7 @@ namespace Intro
                 return this.matricula;
             }
 
-            set // recibe un paramtero oculo que se llama "value", es void
+            set // recibe un paramtero oculto que se llama "value", es void
             {
                 if(value.Length == 7)
                 {
