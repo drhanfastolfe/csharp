@@ -33,15 +33,14 @@ namespace TresEnRaya
         {
             Tablero t = new Tablero();
             string nombre1, nombre2;
+            int mueve1, mueve2;
 
             Console.WriteLine("Las Tres en Raya: Jugador vs Jugador\n");
             
             Console.Write("Jugador 1, introduce tu nombre: ");
             nombre1 = Console.ReadLine();
 
-            Console.WriteLine();
-
-            Console.Write("Jugador 2, introduce tu nombre: ");
+            Console.Write("\nJugador 2, introduce tu nombre: ");
             nombre2 = Console.ReadLine();
 
             Console.WriteLine();
@@ -50,9 +49,40 @@ namespace TresEnRaya
 
             while (t.quedanMovimientos() && !t.ganaJugador1() && !t.ganaJugador2())
             {
-                Console.Write("Mueve " + nombre1 + ": \n");
+                Console.Write("\nMueve " + nombre1 + ": \n");
+                mueve1 = int.Parse(Console.ReadLine());
 
+                Console.WriteLine();
+
+                t.mueveJugador1(mueve1);
                 t.dibujaTablero();
+
+                if (t.ganaJugador1())
+                {
+                    Console.WriteLine("\nFin de la partida: GANA " + nombre1);
+                }
+                else
+                { 
+                    if (t.empate())
+                    {
+                        Console.WriteLine("\nFin de la partida: EMPATE");
+                    }
+                    else
+                    {
+                        Console.Write("\nMueve " + nombre2 + ": \n");
+                        mueve2 = int.Parse(Console.ReadLine());
+
+                        Console.WriteLine();
+
+                        t.mueveJugador2(mueve2);
+                        t.dibujaTablero();
+
+                        if (t.ganaJugador2())
+                        {
+                            Console.WriteLine("\nFin de la partida: GANA " + nombre2);
+                        }
+                    }
+                }
             }
 
 

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 
@@ -47,7 +48,7 @@ namespace TresEnRaya
         {
             bool resultado;
             
-            if(this.tab[pos] != 0)
+            if(this.tab[pos] == 0)
             {
                 resultado = true;
             }
@@ -103,7 +104,7 @@ namespace TresEnRaya
 
             int i = 0;
 
-            while(this.tab[i] != 0)
+            while(i < 9 && this.tab[i] != 0)
             {
                 i++;
             }
@@ -131,7 +132,8 @@ namespace TresEnRaya
 
             for(i = 0; i < 3; i++)
             {
-                for(j = i; j < i+6; j = j + 3)
+                linea = 0;
+                for(j = i; j < i+7; j += 3)
                 {
                     if(this.tab[j] == 1)
                     {
@@ -140,8 +142,7 @@ namespace TresEnRaya
                     if(linea == 3)
                     {
                         resultado = true;
-                        j = 9;
-                        i = 3;
+                        break;
                     }
                 }
             }
@@ -151,6 +152,7 @@ namespace TresEnRaya
                 linea = 0;
                 for (i = 0; i < 9; i = i + 3)
                 {
+                    linea = 0;
                     for (j = i; j < i + 3; j++)
                     {
                         if (this.tab[j] == 1)
@@ -160,8 +162,7 @@ namespace TresEnRaya
                         if (linea == 3)
                         {
                             resultado = true;
-                            j = 9;
-                            i = 3;
+                            break;
                         }
                     }
                 }
@@ -179,6 +180,7 @@ namespace TresEnRaya
                     if(linea == 3)
                     {
                         resultado = true;
+                        break;
                     }
                 }
             }
@@ -195,6 +197,7 @@ namespace TresEnRaya
                     if (linea == 3)
                     {
                         resultado = true;
+                        break;
                     }
                 }
             }
@@ -214,7 +217,8 @@ namespace TresEnRaya
 
             for (i = 0; i < 3; i++)
             {
-                for (j = i; j < i + 6; j = j + 3)
+                linea = 0;
+                for (j = i; j < i + 7; j = j + 3)
                 {
                     if (this.tab[j] == 2)
                     {
@@ -223,8 +227,7 @@ namespace TresEnRaya
                     if (linea == 3)
                     {
                         resultado = true;
-                        j = 9;
-                        i = 3;
+                        break;
                     }
                 }
             }
@@ -234,6 +237,7 @@ namespace TresEnRaya
                 linea = 0;
                 for (i = 0; i < 9; i = i + 3)
                 {
+                    linea = 0;
                     for (j = i; j < i + 3; j++)
                     {
                         if (this.tab[j] == 2)
@@ -243,8 +247,7 @@ namespace TresEnRaya
                         if (linea == 3)
                         {
                             resultado = true;
-                            j = 9;
-                            i = 3;
+                            break;
                         }
                     }
                 }
@@ -262,6 +265,7 @@ namespace TresEnRaya
                     if (linea == 3)
                     {
                         resultado = true;
+                        break;
                     }
                 }
             }
@@ -278,6 +282,7 @@ namespace TresEnRaya
                     if (linea == 3)
                     {
                         resultado = true;
+                        break;
                     }
                 }
             }
