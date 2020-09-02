@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace TitularSpotiflix
 {
@@ -9,7 +11,7 @@ namespace TitularSpotiflix
         private string nombre;
         private App suscripcion;
         private bool titularPasado;
-        
+
         public Persona(string nombre, App suscripcion, bool titularPasado)
         {
             this.nombre = nombre;
@@ -75,6 +77,5 @@ namespace TitularSpotiflix
 
             return fichaPersona;
         }
-
     }
 }

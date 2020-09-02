@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TitularSpotiflix", "TitularSpotiflix\TitularSpotiflix.csproj", "{513DB69D-8B6D-4B70-B95B-16E2D963F194}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TitularSpotiflix", "TitularSpotiflix\TitularSpotiflix.csproj", "{018ABD3D-36CD-49BA-A2D2-150A0C89334B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{513DB69D-8B6D-4B70-B95B-16E2D963F194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{513DB69D-8B6D-4B70-B95B-16E2D963F194}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{513DB69D-8B6D-4B70-B95B-16E2D963F194}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{513DB69D-8B6D-4B70-B95B-16E2D963F194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{018ABD3D-36CD-49BA-A2D2-150A0C89334B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018ABD3D-36CD-49BA-A2D2-150A0C89334B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018ABD3D-36CD-49BA-A2D2-150A0C89334B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018ABD3D-36CD-49BA-A2D2-150A0C89334B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {335ECF68-3C7C-4B9D-BA23-C24E98CC23CB}
+		SolutionGuid = {3014E97B-C498-4132-A28A-12C257A49D30}
 	EndGlobalSection
 EndGlobal

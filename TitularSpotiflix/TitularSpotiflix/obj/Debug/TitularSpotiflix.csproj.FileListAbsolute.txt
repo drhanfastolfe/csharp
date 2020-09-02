@@ -1,0 +1,7 @@
+C:\Users\Hamza\Desktop\TitularSpotiflix\TitularSpotiflix\obj\Debug\TitularSpotiflix.csprojAssemblyReference.cache
+C:\Users\Hamza\Desktop\TitularSpotiflix\TitularSpotiflix\obj\Debug\TitularSpotiflix.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\TitularSpotiflix\TitularSpotiflix\bin\Debug\TitularSpotiflix.exe.config
+C:\Users\Hamza\Desktop\TitularSpotiflix\TitularSpotiflix\bin\Debug\TitularSpotiflix.exe
+C:\Users\Hamza\Desktop\TitularSpotiflix\TitularSpotiflix\bin\Debug\TitularSpotiflix.pdb
+C:\Users\Hamza\Desktop\TitularSpotiflix\TitularSpotiflix\obj\Debug\TitularSpotiflix.exe
+C:\Users\Hamza\Desktop\TitularSpotiflix\TitularSpotiflix\obj\Debug\TitularSpotiflix.pdb

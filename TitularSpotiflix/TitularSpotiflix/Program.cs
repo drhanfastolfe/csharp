@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace TitularSpotiflix
 {
@@ -12,29 +16,29 @@ namespace TitularSpotiflix
             Grupo g = new Grupo();
 
             Console.WriteLine("-- TITULAR SPOTIFLIX --\n");
-            
+
             Console.WriteLine("-- Programa para a elegir el titular para Spotify " +
                 "y Netflix. --\n");
-            
+
             Console.WriteLine("- Normas -\n");
-            
+
             Console.WriteLine("1- Puede haber un titular suscrito a las dos apps o " +
                 "dos titulares cada uno suscrito a una app.\n");
-            
+
             Console.WriteLine("2- Se eligirá al azar a una persona entre todas las suscritas. " +
                 "Si está suscrito a ambas apps se convertirá en el nuevo titular.\n");
-            
+
             Console.WriteLine("3- En el caso de que sólo esté suscrito a una se procederá " +
                 "a elegir a una persona más que esté suscrito a la otra app.\n");
-            
+
             Console.WriteLine("4- La segunda persona elegida podrá estar suscrito a ambas apps.\n");
-            
+
             Console.WriteLine("5- No podrán ser titulares personas que ya lo hayan sido en el " +
                 "pasado en el mismo ciclo (empiza un nuevo ciclo cuando todos han sido titulares).\n");
-            
+
             Console.WriteLine("Presiona alguna tecla para continuar...\n");
             Console.ReadKey();
-            
+
             Console.WriteLine("Vamos a añadir a las personas pertenecientes al grupo ¿" +
                 "Quieres añadirlas mediante un fichero de texto? Responde: si/no.");
             sIntroducirFichero = Console.ReadLine();
@@ -55,7 +59,7 @@ namespace TitularSpotiflix
             }
 
             Console.WriteLine("\n" + "- Lista de personas -\n\n" + g.ToString());
-           
+
             Console.WriteLine("Presiona alguna tecla para empezar el sorteo...\n");
             Console.ReadKey();
 
