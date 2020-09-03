@@ -44,7 +44,7 @@ namespace TresEnRaya
             }
         }
 
-        public bool movimientoValido(int pos)
+        private bool movimientoValido(int pos)
         {
             bool resultado;
             
@@ -338,7 +338,7 @@ namespace TresEnRaya
             return resultado;
         }
 
-        public int corrigePosicion(int pos)
+        private int corrigePosicion(int pos)
         {
             pos = pos - 1;
 
